@@ -11,15 +11,6 @@ import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 
 /**
- * Problems to Look
- * 1:-need to look on EntrySet toString class EntrySet not working for Buckets
- * 
- * 2:- LinkedEntrySet is not working Correctly
- */
-
-
-
-/**
  * Core Class For HashMap Implementation This Class implements CustomCollection
  * Interface which Provides All the necessary Methods to implement for a HashMap
  * Collection
