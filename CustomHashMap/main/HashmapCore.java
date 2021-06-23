@@ -45,6 +45,7 @@ public class HashmapCore<K, V> implements CustomMap<K, V> {
 	/*
 	 * Misc Variable;
 	 */
+	
 	private double loadFactor = 0.75;
 	private double filled = 0.0;
 	private boolean nullFlag = false;
